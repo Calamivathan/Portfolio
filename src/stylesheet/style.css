@@ -4,7 +4,7 @@
 }
 @font-face {
     font-family: my;
-    src: url(BrunoAceSC-Regular.ttf);
+    src: url(https://raw.githubusercontent.com/Calamivathan/Portfolio/main/src/font/BrunoAceSC-Regular.ttf);
   }
 body{
     margin: 0;
